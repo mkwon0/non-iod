@@ -1,0 +1,4 @@
+/mnt/nvme1n1p1/swapfile 192 6291647
+/mnt/nvme1n1p2/swapfile 192 6291647
+/mnt/nvme1n1p3/swapfile 192 6291647
+/mnt/nvme1n1p4/swapfile 192 6291647
